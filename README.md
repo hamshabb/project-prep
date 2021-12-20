@@ -78,3 +78,5 @@ Platfoms
 
 - People should not be validating their own merge requests. One or more teammates needs to review before.
 - Merge before lunch, and at 5:30 each day.
+
+[Project Prep1](https://docs.google.com/document/d/1yghslOUP3C5UhpwT5KimBmNkIg329rAwVdk8uxjJPNo/edit)
